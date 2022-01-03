@@ -1,12 +1,10 @@
-# react-quantity-components
+# react-storybook-setup
+This project makes it easy to get your Storybook component library started.
 
-* [Introduction](#introduction)
 * [Maintainers](#maintainers)
 * [Usage](#usage)
 * [Development](#development)
 
-## <a name="introduction"></a>Introduction
-This project makes it easy to get your Storybook component library started.
 
 ## <a name="maintainers"></a>Maintainers
 * Kirk Wetherill <kwetherill@digitalpharmacist.com>
