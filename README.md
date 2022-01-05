@@ -1,5 +1,5 @@
-# react-storybook-setup
-This project makes it easy to get your Storybook component library started.
+# react-library-setup
+This project makes it easy to get your component library started.
 
 * [Maintainers](#maintainers)
 * [Usage](#usage)
